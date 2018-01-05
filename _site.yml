@@ -5,7 +5,7 @@ navbar:
     - text: "Fun Pages"
       menu:
         - text: "page1"
-          href: demo1.html
+          href: page1.html
         - text: "Demo 2"
           href: demo2.html
 output_dir: "."
